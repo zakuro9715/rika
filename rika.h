@@ -1,2 +1,2 @@
-#include "algorithm.h"
-#include "kika.h"
+#include "rika/algorithm.h"
+#include "rika/kika.h"
