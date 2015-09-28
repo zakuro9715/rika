@@ -23,6 +23,7 @@ namespace rika
           case 2:
                   x = *l.begin();
                   y = *std::next(l.begin(), 1);
+                  break;
           default:
                   assert(false);
         }
